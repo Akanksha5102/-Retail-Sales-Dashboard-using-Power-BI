@@ -89,7 +89,7 @@ These visuals provide a well-rounded view of:
 - Contribution of different segments to revenue and volume
 
 # Screenshot
-
+![Dashboard Screenshot](https://github.com/Akanksha5102/-Retail-Sales-Dashboard-using-Power-BI/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 
 
