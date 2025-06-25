@@ -1,4 +1,4 @@
-# -Retail-Sales-Dashboard-using-Power-BI
+# Retail-Sales-Dashboard-using-Power-BI
 An interactive business intelligence dashboard built in Power BI to analyze customer purchases, product performance, and revenue trends using a simulated retail sales dataset.
 
 ## Overview / Description:
