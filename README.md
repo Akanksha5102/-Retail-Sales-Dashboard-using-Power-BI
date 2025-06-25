@@ -83,6 +83,7 @@ The dashboard includes a variety of visual elements designed to present key busi
 - Stacked Column Chart – Sales by Age Group and Gender.
 - Pie Chart – Sales Distribution by Gender.
 - Donut Chart – Quantity Sold (%) by Product Category.
+
 These visuals provide a well-rounded view of:
 - Sales performance across products and time
 - Customer demographics and behaviors
